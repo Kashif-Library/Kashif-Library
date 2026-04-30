@@ -3,9 +3,21 @@
 ## 🚀 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Hello+World!;I+am+a+DevOps+Engineer;I+love+Cloud+and+Automation;Always+Learning+New+Tech!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=#FF0000&width=600&lines=DevOps+Engineer;Cloud+Solution+Architect+(AWS+Azure);AI/ML+Engineer; alt="Typing SVG" />
 </p>
 
+---
+
+## 🛠️ Skills
+- Cloud Computing ☁️
+- DevOps Tools ⚙️
+- Kubernetes 🚀
+- CI/CD Pipelines 🔄
+
+---
+
+## 📌 Fun Fact
+I make systems scalable and automation-driven 😎
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Kashif-Ijaz) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kawasif06@gmail.com) 
