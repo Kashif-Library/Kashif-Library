@@ -2,20 +2,9 @@
 
 ## 🚀 About Me
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Hello+World!;I+am+a+DevOps+Engineer;I+love+Cloud+and+Automation;Always+Learning+New+Tech!" alt="Typing SVG" />
-
----
-
-## 🛠️ Skills
-- Cloud Computing ☁️
-- DevOps Tools ⚙️
-- Kubernetes 🚀
-- CI/CD Pipelines 🔄
-
----
-
-## 📌 Fun Fact
-I make systems scalable and automation-driven 😎
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&width=600&lines=Hello+World!;I+am+a+DevOps+Engineer;I+love+Cloud+and+Automation;Always+Learning+New+Tech!" alt="Typing SVG" />
+</p>
 
 
 ## 🌐 Socials:
