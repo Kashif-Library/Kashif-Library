@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=550&lines=DevOps+Engineer;Cloud+Enthusiast+(AWS+/+Azure);" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=99D406&center=true&vCenter=true&width=550&lines=DevOps+Engineer;Cloud+Enthusiast+(AWS+/+Azure);" />
 
 </div>
 
